@@ -29,9 +29,11 @@
                             <option value="OFIMATICA">OFIMATICA</option>
                             <option value="CONSTRUCCIÓN">CONSTRUCCIÓN</option>
                             <option value="ELECTRÓNICA">ELECTRÓNICA</option>
-                        </select>
-
-                    
+                        </select><br>
+                    </div>
+                    <div>
+                        <input type="submit" class="btn btn-primary" value=""Registrar>
+                        <a href="ConsultarMaterias.php" class="btn btn-danger">Cancelar</a><br>
                     </div>
                 </form>
 
@@ -39,5 +41,6 @@
         </div>
     </div>
     <script src="j/bootstrap.js"></script>
+
 </body>
 </html>
