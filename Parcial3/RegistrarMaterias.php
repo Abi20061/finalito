@@ -32,7 +32,7 @@
                         </select><br>
                     </div>
                     <div>
-                        <input type="submit" class="btn btn-primary" value=""Registrar>
+                        <input type="submit" class="btn btn-primary" value="Registrar">
                         <a href="ConsultarMaterias.php" class="btn btn-danger">Cancelar</a><br>
                     </div>
                 </form>
@@ -40,7 +40,7 @@
             </div>
         </div>
     </div>
-    <script src="j/bootstrap.js"></script>
+    <script src="js/bootstrap.js"></script>
 
 </body>
 </html>
